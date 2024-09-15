@@ -5,4 +5,4 @@ test("return a copy of the given array", () => {
   expect(cloneArray(array)).toEqual(array);
 });
 
-//Comentário para fazer novo commit
+//Comentário para novo commit
